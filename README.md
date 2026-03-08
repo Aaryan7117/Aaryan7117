@@ -26,15 +26,16 @@ Here are some of the key areas I've been working on recently:
 *   **Frontend:** HTML5, CSS3, Vanilla JavaScript (Modern UI/UX integration)
 *   **Tools & Ecosystem:** Git, VS Code Extension API, Data Vis Libraries (Matplotlib/Seaborn)
 
-## 📈 GitHub Stats
-
-
-[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryan7117&show_icons=true&theme=radical 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan7117&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 
 *   **Email:** [aaryanmadhan@gmail.com]
 *   **LinkedIn:** [https://www.linkedin.com/in/aaryan-m-52627128b/]
-  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaryan7117/Aaryan7117/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaryan7117/Aaryan7117/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aaryan7117/Aaryan7117/output/github-contribution-grid-snake.svg">
+</picture>
+
 
