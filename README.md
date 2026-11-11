@@ -22,7 +22,7 @@ I enjoy building software where AI has to work with real engineering constraints
 - Retrieval-augmented generation (RAG) and document question answering
 - Python APIs, data modeling, and end-to-end application development
 
-## Selected Projects
+## Few of my  Projects
 
 ### [MediKiosk — Edge-First Clinical Intake](https://github.com/Aaryan7117/pts)
 A clinical intake and patient-tracking application designed for multilingual healthcare workflows. The project brings together voice-based intake, prescription/report OCR, rule-based safety checks, and a clinician-facing triage queue. Its backend uses modular AI adapters so speech, OCR, and language-model components can be integrated independently.
